@@ -224,21 +224,6 @@ Análise avançada de dados de pessoas, produtividade, engajamento e cultura org
 - **LinkedIn**: [linkedin.com/in/rodolfo-alonso/](https://www.linkedin.com/in/rodolfo-alonso/)
 - **Telefone**: (11) 97717-1910
 
-## 🌐 Como Publicar
-
-Para publicar seu portfólio:
-
-1. **Vá para a aba "Publish"** no topo da interface
-2. Clique em **"Publicar"**
-3. Seu site será hospedado e você receberá uma URL pública
-4. Compartilhe essa URL no LinkedIn, currículo e redes sociais!
-
-### Alternativas de Hospedagem
-
-- **GitHub Pages**: Gratuito e simples
-- **Netlify**: Deploy automático com CI/CD
-- **Vercel**: Otimizado para performance
-- **Azure Static Web Apps**: Integração Microsoft
 
 ## 📝 Customização
 
